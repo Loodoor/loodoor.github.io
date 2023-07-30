@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/superfola
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://superfola.github.io
+  * I am superfola (https://keybase.io/superfola) on keybase.
+  * I have a public key with fingerprint BCA1 F845 E043 2EF2 E9D9  839B 95F9 CA97 C6D4 91AD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016ad50d5c375c91fa72a94d087ec437305ddc966b363dec271b8fc68e97e224950a",
+      "fingerprint": "bca1f845e0432ef2e9d9839b95f9ca97c6d491ad",
+      "host": "keybase.io",
+      "key_id": "95f9ca97c6d491ad",
+      "kid": "01016ad50d5c375c91fa72a94d087ec437305ddc966b363dec271b8fc68e97e224950a",
+      "uid": "8dafca44102215d2d7b6eb620e547819",
+      "username": "superfola"
+    },
+    "service": {
+      "hostname": "superfola.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1605109609,
+  "expire_in": 157680000,
+  "prev": "a6ef99fb4ccb67604a286104667ca174b7c9799ebef83d372a80be04a07701c0",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmlMXFUYnaEw1KFjwSqaAk15tpEIHd5+3x1Kt3Ey0FTr3kSp41vuwAt0ZpgZ
+loGiXSxlFJVFLFhaIQaLBSyx1hqEtiwhLauNLCGCVSMqibYjXSwVwffQ/jH+9P65
+uV/OOfec7/vKDMs0em3VXN+R3pHyFm3/jKCxNYf6CjHBKfkwUyGWiZYulCUhj9eW
+KUuYCcMJnGB5icElRqQAI0LCzgOSh7SEcwCJNAUonJEkEbKsQLGUhEQSEAJnF1kO
+QYBIkoYMzmMJmF12pCO3yy07vIqsIPKEnaMZhNMUiewkghLkKChAxg5FHgKRlWhI
+8JJCzHB6VIZiTuA9yCg7lZrysC3Z+w/8/+w7Z0mOk3i7yNM0gZMkwUikBAQWCSyJ
+I4YGHAFVoAe5HfwepKA9OS7ktjuzeKwoAVPKubKI1M6qUf4NMabL3owc4e9cLrfT
+6xSdWQogw+t1eUyqgNfnUhl5SLD9o2UTZIek9FNh5CK3R3Y6MBOhIEWvrIoTLM4Q
+OGRxmIChfJfsRjZZRTCA5XDlqP+gXMz0MsazyA6hXaBFUWABi9M8ybEETrMsUAYE
+aAGIEECIBGTnKIlSGsjhgjIzHgcAJ0QcU+NlO5yYiVZ88ulqMDndwXtz3Agr0vuD
+qGCNVq+JiYwNbq+/bfnWbJydmTh49O4OhgSpC6jR3xN+t5JChmu6y/u/Hjzl7i59
+vv++7VFzYQ+YdZNw7sOt4KH0O4csG22GC39QhwJzRfVvPD6xzhvb+m5tdjH6mfHf
+DJxc9eeK9V1bwqMWDb917piZfmL3BzttFaAxJM60ejTe8rYl4aXPzicYFqbRwMBw
+83hWddSAtvFSSHN7Cf1LKeo+dWR/24aqyJrU3b7lXw4OmXSPAlMs2Ft1vLTPfzHi
+hG7DtjW3rmQnlfQAZ3RLK+b95qmW4uRV2HzlyvyuN7s7+0bmP60P7TAPVkxv0T5i
+Phh3KzLoSTmPqD8zt21hmSWm435nb+3J9ELaGr3JOjl+3pK8qN2bMvrRrsRP3hqu
+PlwXVHA8mJ1ace3HtDGdP3C9cNKcmdpgJN633hg7uLnpu1mPrvv28OqreQJmKCMe
+jq8BuqDlo6ldr7VFLKRdK7K8MHYg4tL48HtbC3p8qGvnmv0vjh7T5PRore2G9ozi
+o4/JB6yBUZ287uK5ff6OHbuSGlLqTnyFn63i+FkisXqo9pz/dFqy4WpDaQVDjD+z
+/l59UfLTvpr8un5foBjqn12MbHwwjXq98tWAKf9moP2n0DOJa83v7Bv5Nc5RGX4l
+MtrWND0VW2YtuH6neKjyCzppU+fnttCY2lfamLAwXZM/eOXhyzeeO/sDv90YDHub
+R47BltTvJ/Z8vGgwlpQHplp/37x2/rT1wuWF+I1/AQ==
+=a/h/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/superfola
+
+==================================================================

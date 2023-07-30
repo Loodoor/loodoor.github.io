@@ -1,0 +1,8 @@
+.hero-button {
+    width: 8em;
+}
+
+.title>.icon>svg {
+    width: 0.7em;
+    padding-top: 0.2em;
+}
